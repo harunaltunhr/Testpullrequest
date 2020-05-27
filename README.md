@@ -1,6 +1,2 @@
 # Testpullrequest
-Hello
-How are you?
-Hi
-Hoe hat het?
-Goed
+- This is a test
